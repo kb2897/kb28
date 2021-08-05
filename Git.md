@@ -37,3 +37,5 @@ A tool in which multiple developers work together in a repository. Everything wi
 ## Git Workflow
 ![](https://github.com/kb2897/kb28/blob/master/images/git%20workflow.jpg)
 
+! [](https://github.com/kb2897/kb28/blob/master/images/git%20branch.jpg)
+
