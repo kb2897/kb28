@@ -11,7 +11,7 @@
 ## Distributed version control system: -
 A tool in which multiple developers work together in a repository. Everything will be tracked in a distributed version control system. In a distributed version control system, thousands of developers working on the same repository.	
 
-##Git Commands
+## Git Commands
 
 |Command|	Description|
 |---|---|
@@ -33,4 +33,7 @@ A tool in which multiple developers work together in a repository. Everything wi
 |git stash list	|It gives a list of the stash file|
 |git log --oneline|	It shows commit Id and message in one line|
 |git fetch| 	It fetches the latest data from the remote repository to the local repository|
+
+## Git Workflow
+![](https://github.com/kb2897/kb28/blob/master/images/git%20workflow.jpg)
 
